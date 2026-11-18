@@ -1,0 +1,7 @@
+# Datos de Kaggle: se descargan aparte
+*.csv
+!predicciones_2024.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
